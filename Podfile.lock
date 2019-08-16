@@ -1,0 +1,16 @@
+PODS:
+  - AppLovinSDK (6.8.1)
+
+DEPENDENCIES:
+  - AppLovinSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AppLovinSDK
+
+SPEC CHECKSUMS:
+  AppLovinSDK: 2b1120bf7fcf4719f7f76f63ff7ebd83931be854
+
+PODFILE CHECKSUM: 37fe5daceb12c6d459ef446db76b6e2e974095dd
+
+COCOAPODS: 1.7.5
